@@ -1,4 +1,4 @@
-# Project Name
+# Bike Share Demand Linear Regresion Modeling
 > Regression Model for Bike sharing demand of BoomBikes Organization
 
 
